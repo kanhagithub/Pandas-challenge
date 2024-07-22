@@ -1,0 +1,7 @@
+Reviewing the per school summary data yields some interesting insights:
+    -As a whole, charter schools have a significantly higher overall passing rate compared to district schools.
+    -Charters schools also have less students than district schools
+    -Charter Schools not only have a higher overall passing rate, but also achieve that rate at a lower overall    cost per student.
+Some conclusions one might draw are:
+    -charter schools have less students and per student budget is also less but their overall passing rate is better than district schools 
+    - Schools with higher student count has lower overall passing rate
